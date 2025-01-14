@@ -1,17 +1,13 @@
 # Baseline_AndesML
 
-Este repositorio contiene el código y los recursos asociados con mi proyecto de tesis titulado "Implementación de Modelos de Lenguaje de Última Generación Para Mejorar Sistemas de Recomendación en Retail Media". El proyecto se centra en explorar el potencial de los Language Models, específicamente utilizando el enfoque RAG (Retrieve Augmented Generation), para mejorar la calidad y relevancia de las recomendaciones en diversos contextos.
+Este repositorio contiene los códigos y los recursos asociados a mi proyecto de tesis titulado "Evaluación del Uso de Modelo de Lenguaje Grande y Técnicas de Aprendizaje Automático para Aumentar la Probabilidad de Clic de Anuncios en Retail Media". El proyecto se centra en analizar cómo las distintas fuentes de información influyen en la predicción de clics en anuncios, utilizando técnicas de aprendizaje automático. Entre estas fuentes, se incluyen características tradicionales y nuevas variables generadas a partir del modelo Gemini (LLM). A través de este enfoque, se busca evaluar el impacto de estas características en la calidad y relevancia de las recomendaciones en sistemas publicitarios.
 
-Funcionalidades Principales:
+## Contenido del Repositorio
 
-Implementación del enfoque RAG para la generación de recomendaciones.
-Integración de un modelo de filtro heurístico como paso previo en el proceso de recomendación.
-Evaluación de la efectividad y rendimiento del sistema de recomendación propuesto.
-Documentación detallada y ejemplos de uso para facilitar la comprensión y reproducción del proyecto.
-
-Contenido del Repositorio:
-
-Código Fuente: Contiene implementaciones en Python de los algoritmos y modelos utilizados en el proyecto.
-Recursos: Incluye conjuntos de datos, modelos pre-entrenados y otros recursos necesarios para la ejecución del código.
-Documentación: Documentación detallada sobre la configuración del entorno, ejecución del código y análisis de resultados.
-Experimentos y Resultados: Resultados de experimentos realizados, incluyendo métricas de evaluación y análisis cualitativo.
+- **Códigos**: Implementaciones en Python que incluyen:
+  - Generación de *scores* y nuevas *features* a partir del modelo Gemini (LLM).
+  - Scripts para realizar experimentos con diferentes modelos de aprendizaje automático, incluyendo su entrenamiento, evaluación y comparación.
+- **Recursos**: 
+  - Conjuntos de datos utilizados en los experimentos.
+  - Modelos preentrenados y configuraciones necesarias para replicar los resultados.
+  - Archivos auxiliares y recursos adicionales requeridos para la ejecución de los códigos.
