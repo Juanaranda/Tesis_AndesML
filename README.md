@@ -1,4 +1,4 @@
-# Baseline_AndesML
+# Tesis MDS
 
 Este repositorio contiene los códigos y los recursos asociados a mi proyecto de tesis titulado "Evaluación del Uso de Modelo de Lenguaje Grande y Técnicas de Aprendizaje Automático para Aumentar la Probabilidad de Clic de Anuncios en Retail Media". El proyecto se centra en analizar cómo las distintas fuentes de información influyen en la predicción de clics en anuncios, utilizando técnicas de aprendizaje automático. Entre estas fuentes, se incluyen características tradicionales y nuevas variables generadas a partir del modelo Gemini (LLM). A través de este enfoque, se busca evaluar el impacto de estas características en la calidad y relevancia de las recomendaciones en sistemas publicitarios.
 
